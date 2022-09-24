@@ -1,4 +1,4 @@
-public class Main {
+public class Exercise6_SwitchCase {
 
     public static void main(String[] args) {
 
