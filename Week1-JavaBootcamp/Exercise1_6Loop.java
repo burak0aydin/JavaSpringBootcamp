@@ -1,4 +1,4 @@
-public class Exercise7_Loop {
+public class Exercise1_6Loop {
     public static void main(String[] args) {
         
         //FOR
