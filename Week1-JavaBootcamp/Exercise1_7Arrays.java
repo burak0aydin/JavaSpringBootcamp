@@ -1,4 +1,4 @@
-public class Exercise8_Arrays {
+public class Exercise1_7Arrays {
     public static void main(String[] args) {
         
         String[] ogrenciler = new String[3];
