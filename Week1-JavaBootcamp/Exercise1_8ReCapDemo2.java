@@ -1,4 +1,4 @@
-public class Exercise9_ReCapDemo2 {
+public class Exercise1_8ReCapDemo2 {
     public static void main(String[] args) {
         
         double[] myList = {1.2,6.3,4.3,5.3};
