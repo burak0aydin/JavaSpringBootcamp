@@ -1,4 +1,4 @@
-public class Exercise2_Variables {
+public class Exercise1_1Variables {
 
     public static void main(String[] args) {
         int ogrenciSayisi = 10;
