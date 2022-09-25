@@ -1,4 +1,4 @@
-public class Exercise4_Conditionals {
+public class Exercise1_3Conditionals {
     public static void main(String[] args) {
         
         int sayi = 20;
