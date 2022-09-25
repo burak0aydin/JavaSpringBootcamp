@@ -17,6 +17,23 @@ public class Exercise2_0Strings {
         System.out.println(message.indexOf('a'));
         System.out.println(message.indexOf("av"));
         System.out.println(message.lastIndexOf("a"));
+		
+	System.out.println("--------------------------");
+			
+	String message = "Bugün hava çok güzel.";
+
+	System.out.println(message);
+
+	String newMessage = message.replace(' ', '-');
+	System.out.println(newMessage);
+	System.out.println(message.substring(2, 5));
+
+	for (String word : message.split(" ")) {
+		System.out.println(word);
+	}
+	System.out.println(message.toLowerCase());
+	System.out.println(message.toUpperCase());
+	System.out.println(message.trim());
 
 	}
 
